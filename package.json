@@ -1,0 +1,10 @@
+{
+  "name": "hello-world-website",
+  "version": "1.0.0",
+  "description": "A simple hello world website using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
